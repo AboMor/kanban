@@ -4,7 +4,7 @@ the project include implementation od a kanban system and the design of the syst
 the implementation is in N-tier architecture, in addition the presentation layer in base on mvvm design and the UI is impemented using WPF
 
 
-#the system:
+# the system:
 
 init page where you can register and log in to the system: 
 ![image](https://user-images.githubusercontent.com/108360512/178122284-4b36b132-1882-4ce0-86de-d3c519091139.png)
